@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "spy",
+  "mainClass": "dk.itspasser.test.spy",
+  "description": "Hi this is my first addon, it makes everything that has anything to do with spy come up in the right corner and not in the chat",
+  "version": 1,
+  "author": "itspasser",
+  "category": 4,
+  "icon": "http://link-to-icon.net/icon64x64.png"
+}
